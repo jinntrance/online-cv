@@ -1,0 +1,311 @@
+{
+  "basics": {
+    "name": "Joseph TANG",
+    "label": "Sr Machine Learning Engineer at meituan.com",
+    "phone": "",
+    "website": "profile.josephjctang.com",
+    "summary": "I have 3+ years of experience in data mining, learning to rank and computational advertising, and have contributed to some open source projects and public service. Furthermore, I've been a full-stack web developer after tackling web programing for seven years.\n\nAs a proactive person, I'm often motivated to improve myself by expanding the knowledge base and putting it into practice. Moreover, I'm keen on studying different languages and eager to experience the cultures around the world.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+      "network": "github",
+      "username": "jinntrance",
+      "url": "http://github.com/jinntrance"
+      },
+      {
+      "network": "linkedin",
+      "username": "josephjinchuantang",
+      "url": "http://linkedin.com/josephjinchuantang"
+      },
+      {
+      "network": "google-plus",
+      "username": "JosephJinChuanTáng",
+      "url": "https://google.com/+JosephJinChuanTáng"
+      },
+      {
+      "network": "weibo",
+      "username": "jinntrance",
+      "url": "http://weibo.com/jinntrance"
+      },
+      {
+      "network": "bookmark",
+      "username": "josephjctang",
+      "url": "http://goodreads.com/josephjctang"
+      },
+      {
+      "network": "book",
+      "username": "jinntrance",
+      "url": "http://douban.com/people/jinntrance/"
+      }
+    ],
+    "email": "jinntrance@gmail.com"
+  },
+  "work": [
+    {
+      "company": "Meituan-Dianping",
+      "position": "Senior Machine Learning Engineer",
+      "website": "",
+      "startDate": "2014-07-01",
+      "summary": "Engaged on search reranking, personalised ranking, box office prediction, user profile mining and computational advertising.",
+      "highlights": []
+    },
+    {
+      "company": "Wolong Data",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2013-02-01",
+      "summary": "Built a backend system of data products in this startup(previously named Chengdu ECube Technology http://www.wolongdata.com), which concentrates on mining user profile from heterogeneous data. Conducted data analysis and data mining leveraging a Apache Spark cluster.",
+      "highlights": [],
+      "endDate": "2014-03-01"
+    },
+    {
+      "company": "University of Electronic Science and Technology of China",
+      "position": "Teaching Assistant",
+      "website": "",
+      "startDate": "2011-09-01",
+      "summary": "Served as a teaching assistant for the course Algorithm Analysis and Design in the School of Computer Science and Engineering.",
+      "highlights": [],
+      "endDate": "2012-01-01"
+    },
+    {
+      "company": "University of Electronic Science and Technology of China",
+      "position": "Research Assistant",
+      "website": "",
+      "startDate": "2010-10-01",
+      "summary": "When in the Network and System Lab, I researched in vehicular network, sound data communication, online social network. Published few co-authored papers in this lab on vehicular network. Optimized an algorithm of friends recommendation in OSN. Managed a data centre of this lab and implemented our new technologies of sound data communication and friends recommendations into a SNS app Chance.",
+      "highlights": [],
+      "endDate": "2013-01-01"
+    },
+    {
+      "company": "Dreamfly Wireless Studio",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2008-08-01",
+      "summary": "Mainly focused on Java web programming of outsourcing projects from companies based in Chengdu, Guangdong or Kuala Lumpur.",
+      "highlights": [],
+      "endDate": "2012-04-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "area": "",
+      "studyType": "Machine Learning Specialization",
+      "startDate": "2015-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2016-01-01"
+    },
+    {
+      "institution": "University of Electronic Science and Technology",
+      "area": "",
+      "studyType": "Bachelor of Science (B.Sc.)",
+      "startDate": "2007-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2011-01-01"
+    },
+    {
+      "institution": "University of Electronic Science and Technology",
+      "area": "",
+      "studyType": "Master of Engineering (MEng)",
+      "startDate": "2011-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2014-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Chrome Extensions",
+      "level": "90",
+      "keywords": []
+    },
+    {
+      "name": "Scala on Android",
+      "level": "95",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "95",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "98",
+      "keywords": []
+    },
+    {
+      "name": "Machine Learning",
+      "level": "90",
+      "keywords": []
+    },
+    {
+      "name": "Learning to Rank",
+      "level": "85",
+      "keywords": []
+    },
+    {
+      "name": "Spark",
+      "level": "90",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "80",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript/HTML",
+      "level": "75",
+      "keywords": []
+    },
+    {
+      "name": "Scala",
+      "level": "90",
+      "keywords": []
+    },
+    {
+      "name": "GTD",
+      "level": "95",
+      "keywords": []
+    },
+    {
+      "name": "Hadoop",
+      "level": "85",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "French",
+      "fluency": "Elementary"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working"
+    }
+  ],
+  "interests": [
+    {
+      "name": "programming",
+      "keywords": []
+    },
+    {
+      "name": "reading",
+      "keywords": []
+    },
+    {
+      "name": "travelling",
+      "keywords": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "Native Search Ads",
+      "startDate": "2016-01-01",
+      "summary": "Responsible for ranking and auction. Monetized the the search traffic and took it to reach a relatively steady state. Then boosted the RPS(revenue per search) by 54.5% with the bound of user experience.\nBalancing user experience, advertisers' return and platform's outcome.",
+      "url": ""
+    },
+    {
+      "name": "Recommendation Ads",
+      "startDate": "2015-11-01",
+      "summary": "Designed and initiated the ranking system of Recommendation Ads in Meituan. Built the online prediction system, offline training workflow, A/B testing framework and online debugging system.",
+      "url": "",
+      "endDate": "2016-01-01"
+    },
+    {
+      "name": "Subject Ranking",
+      "startDate": "2015-09-01",
+      "summary": "Optimised the ranking quality under some specific subjects such as Everyday Bargains, with the CVR constrained objective of increasing the GMV(Gross merchandise volume). Boosted the revenue per thousand UV by 35.25% and the conversion rate by 9.54%.",
+      "url": "",
+      "endDate": "2015-12-01"
+    },
+    {
+      "name": "User Profile Mining",
+      "startDate": "2015-06-01",
+      "summary": "Identified users' preferences for locations based on both GPS and WiFi access points, helping the search team and the recommendation team boost their CVRs(conversion rates), ranging from 0.9% to 2.8%.",
+      "url": "",
+      "endDate": "2015-09-01"
+    },
+    {
+      "name": "Box Office Prediction",
+      "startDate": "2015-01-01",
+      "summary": "Predicted the box office in China mostly based on user behaviours on maoyan.com. Also aggregated information from other movie review sites, search engines, and other online movie databases.",
+      "url": "http://smart.maoyan.com/",
+      "endDate": "2015-06-01"
+    },
+    {
+      "name": "Popup Hints",
+      "startDate": "2014-11-01",
+      "summary": "Personalised the popup hints as a search entrance on mobile applications, and then optimised its ranking. Boosted the conversion rate by 63.5% in a year, making it the entrance with the highest conversion rate.",
+      "url": "http://i.meituan.com/",
+      "endDate": "2015-09-01"
+    },
+    {
+      "name": "Pomodoit",
+      "startDate": "2014-11-01",
+      "summary": "In order to make best use of two task&time management techniques GTD and Pomodoro Technique, this Chrome extension integrates a popular GTD app doit.im with Pomodoro app  pomotodo.com. With this extension users are capable of planing effectively and working productively.",
+      "url": "http://josephjctang.com/pomodoit/"
+    },
+    {
+      "name": "Golang Pool",
+      "startDate": "2014-10-01",
+      "summary": "A tolerant and on-demand pool implementation for golang.",
+      "url": "https://github.com/jinntrance/pool"
+    },
+    {
+      "name": "Data Mining for Highly Profitably  Potential Customers",
+      "startDate": "2013-11-01",
+      "summary": "Leveraging on a Apache Spark Cluster, we work out the potential customers of Group Service for China Mobile(Yunfu,Guangdong Province).",
+      "url": "",
+      "endDate": "2014-01-01"
+    },
+    {
+      "name": "Douban Books",
+      "startDate": "2013-09-01",
+      "summary": "An android client for book.douban.com, which is  more than goodreads.com. Besdies douban.com is the 4th largest SNS website in China. This client includes some features for books. Douban users can conveniently search or scan a book to view its reviews or notes online. Also users can handily manage their notes and favorites via this client.",
+      "url": "http://josephjctang.com/douban-android/",
+      "endDate": "undefined-2015-01"
+    },
+    {
+      "name": "Chrome Extension for Shanbay",
+      "startDate": "2013-08-01",
+      "summary": "A Google Chrome Extension enhancing some usabilities of shanbay.com, a highly appreciated website helping English Learners in China. Whatever webpage users are browsing, they can easily clip unknown English words and save them into their Shanbay account. Additionally, users can more efficiently memorize their unknown words with the increased shortcuts.",
+      "url": "http://josephjctang.com/shanbay-crx/",
+      "endDate": "2013-09-01"
+    },
+    {
+      "name": "Search Reranking",
+      "startDate": "2013-07-01",
+      "summary": "Improved the search ranking quality of www.meituan.com. Relatively increased the top-4 search CVR(Conversion Ratio) by about 4%.",
+      "url": "http://www.meituan.com/",
+      "endDate": "2014-10-01"
+    },
+    {
+      "name": "Scala SDK for Douban",
+      "startDate": "2013-03-01",
+      "summary": "This adopted Scala SDK for douban.com fully covers the released API, including interfaces for Albums,  Books, Bubblers, Comments, Discussions, Doumails, Events, Movies, Music, Notes, Online, Status, Travelling, and Users.",
+      "url": "http://josephjctang.com/douban-scala/",
+      "endDate": "2013-08-01"
+    },
+    {
+      "name": "Chance Project",
+      "startDate": "2012-07-01",
+      "summary": "Chance is a social app with innovative ways of interaction. In the project Chance, I mainly worked on data modeling and a new feature called Who are you(WRU). Conventional social apps help people find friends nearby through locations based on GPS or base station signals, while they have not solve the problem of matching the virtual ID to the real person. Benefiting from the Doppler Effect, I worked on the feature letting person A match person B to B's Chance ID with a gentle swipe of a smart phone if they are within eyesight.",
+      "url": "",
+      "endDate": "2013-03-01"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Joseph TANG",
-    "label": "Sr Machine Learning Engineer at meituan.com",
+    "label": "Sr Machine Learning Engineer at Meituan-Dianping",
     "phone": "",
     "website": "profile.josephjctang.com",
     "summary": "I have 3+ years of experience in data mining, learning to rank and computational advertising, and have contributed to some open source projects and public service. Furthermore, I've been a full-stack web developer after tackling web programing for seven years.\n\nAs a proactive person, I'm often motivated to improve myself by expanding the knowledge base and putting it into practice. Moreover, I'm keen on studying different languages and eager to experience the cultures around the world.",
@@ -96,7 +96,7 @@
     {
       "institution": "University of Washington",
       "area": "",
-      "studyType": "Machine Learning Specialization",
+      "studyType": "Machine Learning Specialization(on Coursera)",
       "startDate": "2015-01-01",
       "gpa": "",
       "courses": [],

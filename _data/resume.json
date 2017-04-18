@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Joseph TANG",
-    "label": "Sr Machine Learning Engineer at Meituan-Dianping",
+    "label": "Tech Manager at Meituan-Dianping",
     "phone": "",
     "website": "profile.josephjctang.com",
-    "summary": "I have 3+ years of experience in data mining, learning to rank and computational advertising, and have contributed to some open source projects and public service. Furthermore, I've been a full-stack web developer after tackling web programing for seven years.\n\nAs a proactive person, I'm often motivated to improve myself by expanding the knowledge base and putting it into practice. Moreover, I'm keen on studying different languages and eager to experience the cultures around the world.",
+    "summary": "I have years of experience in search ranking and ads system, leveraging on skills including machine learning, reinforcement learning, learning to rank, computational advertising, and algorithmic mechanism design. Additionally, I have contributed to and still keep interested in open source projects and public service.\n\nAs a proactive person, I'm often motivated to improve myself by expanding the knowledge base and putting it into practice. Moreover, I'm keen on studying different languages and eager to experience the cultures around the world.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -49,7 +49,7 @@
   "work": [
     {
       "company": "Meituan-Dianping",
-      "position": "Senior Machine Learning Engineer",
+      "position": "Tech Manager",
       "website": "",
       "startDate": "2014-07-01",
       "summary": "Engaged on search reranking, personalised ranking, box office prediction, user profile mining and computational advertising.",
@@ -124,12 +124,12 @@
   "skills": [
     {
       "name": "Chrome Extensions",
-      "level": "90",
+      "level": "85",
       "keywords": []
     },
     {
       "name": "Scala on Android",
-      "level": "95",
+      "level": "90",
       "keywords": []
     },
     {
@@ -159,7 +159,7 @@
     },
     {
       "name": "Python",
-      "level": "80",
+      "level": "90",
       "keywords": []
     },
     {
@@ -173,8 +173,13 @@
       "keywords": []
     },
     {
-      "name": "GTD",
+      "name": "Time Management",
       "level": "95",
+      "keywords": []
+    },
+    {
+      "name": "Presentation Skills",
+      "level": "85",
       "keywords": []
     },
     {
@@ -211,24 +216,30 @@
       "keywords": []
     }
   ],
-  "projects": [
+"projects": [
+    {
+      "name": "Behavior forecasting",
+      "startDate": "2017-03-01",
+      "summary": "Leveraging recurrent neural networks, model time-series behaviors and learn behavior representation, in order to better understand users' intention and boost CTR prediction.",
+      "url": ""
+    },
     {
       "name": "Native Search Ads",
       "startDate": "2016-01-01",
-      "summary": "Responsible for ranking and auction. Monetized the the search traffic and took it to reach a relatively steady state. Then boosted the RPS(revenue per search) by 54.5% with the bound of user experience.\nBalancing user experience, advertisers' return and platform's outcome.",
+      "summary": "Responsible for ranking and auction. Monetized the the search traffic and took it to reach a relatively steady state. Then boosted the RPS(revenue per search) by 54.5% with the bound of user experience.\nBalancing user experience, advertisers' return and platform's outcome with various auction strategies and a pairwise model developed by my self.",
       "url": ""
     },
     {
       "name": "Recommendation Ads",
       "startDate": "2015-11-01",
-      "summary": "Designed and initiated the ranking system of Recommendation Ads in Meituan. Built the online prediction system, offline training workflow, A/B testing framework and online debugging system.",
+      "summary": "Designed and initiated the ranking system of Recommendation Ads in Meituan. Built the online CTR (click-through rate) prediction system, offline training workflow, A/B testing framework and online debugging system.",
       "url": "",
       "endDate": "2016-01-01"
     },
     {
       "name": "Subject Ranking",
       "startDate": "2015-09-01",
-      "summary": "Optimised the ranking quality under some specific subjects such as Everyday Bargains, with the CVR constrained objective of increasing the GMV(Gross merchandise volume). Boosted the revenue per thousand UV by 35.25% and the conversion rate by 9.54%.",
+      "summary": "Optimised the ranking quality under some specific subjects such as Everyday Bargains, with the CVR (conversion rate) constrained objective of increasing the GMV (gross merchandise volume). Boosted the revenue per thousand UVs (user views) by 35.25% and the conversion rate by 9.54% with a gradient boosting machine developed by ourselves.",
       "url": "",
       "endDate": "2015-12-01"
     },
@@ -247,9 +258,9 @@
       "endDate": "2015-06-01"
     },
     {
-      "name": "Popup Hints",
+      "name": "Search Trends",
       "startDate": "2014-11-01",
-      "summary": "Personalised the popup hints as a search entrance on mobile applications, and then optimised its ranking. Boosted the conversion rate by 63.5% in a year, making it the entrance with the highest conversion rate.",
+      "summary": "Personalised the search trends on mobile applications, and then optimised its ranking. Boosted the conversion rate by 63.5% in a year, making it the entrance with the highest conversion rate.",
       "url": "http://i.meituan.com/",
       "endDate": "2015-09-01"
     },

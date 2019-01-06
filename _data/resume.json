@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Joseph TANG",
-    "label": "Tech Manager at Meituan-Dianping",
+    "label": "Sr. Tech Manager at Meituan-Dianping",
     "phone": "",
     "website": "profile.josephjctang.com",
     "summary": "I have years of experience in search ranking and ads system, leveraging on skills including machine learning, reinforcement learning, learning to rank, computational advertising, and algorithmic mechanism design. Additionally, I have contributed to and still keep interested in open source projects and public service.\n\nAs a proactive person, I'm often motivated to improve myself by expanding the knowledge base and putting it into practice. Moreover, I'm keen on studying different languages and eager to experience the cultures around the world.",
@@ -49,7 +49,7 @@
   "work": [
     {
       "company": "Meituan-Dianping",
-      "position": "Tech Manager",
+      "position": "Sr. Tech Manager",
       "website": "",
       "startDate": "2014-07-01",
       "summary": "Engaged on search reranking, personalised ranking, box office prediction, user profile mining and computational advertising.",

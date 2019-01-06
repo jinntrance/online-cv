@@ -1,6 +1,6 @@
 # TANG {#name}
 
-## 技术经理 {#position}
+## 高级技术经理 {#position}
 
 > [jinntrance@gmail.com](emailto:jinntrance@gmail.com)
 >
@@ -31,7 +31,7 @@
 ### 工作经历 {#experience}
 
 美团网
-: *技术经理*
+: *高级技术经理*
   __2014年至今__
   负责用户行为序列预估、效果广告的排序及机制设计、搜索产品重排序、票房预估、用户画像挖掘等项目。
 
